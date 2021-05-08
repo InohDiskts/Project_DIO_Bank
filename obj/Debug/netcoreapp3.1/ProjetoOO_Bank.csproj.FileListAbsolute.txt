@@ -1,0 +1,13 @@
+C:\Users\Calebe\Documents\Cursos\DIO\ProjetoOO_Bank\bin\Debug\netcoreapp3.1\ProjetoOO_Bank.exe
+C:\Users\Calebe\Documents\Cursos\DIO\ProjetoOO_Bank\bin\Debug\netcoreapp3.1\ProjetoOO_Bank.deps.json
+C:\Users\Calebe\Documents\Cursos\DIO\ProjetoOO_Bank\bin\Debug\netcoreapp3.1\ProjetoOO_Bank.runtimeconfig.json
+C:\Users\Calebe\Documents\Cursos\DIO\ProjetoOO_Bank\bin\Debug\netcoreapp3.1\ProjetoOO_Bank.runtimeconfig.dev.json
+C:\Users\Calebe\Documents\Cursos\DIO\ProjetoOO_Bank\bin\Debug\netcoreapp3.1\ProjetoOO_Bank.dll
+C:\Users\Calebe\Documents\Cursos\DIO\ProjetoOO_Bank\bin\Debug\netcoreapp3.1\ProjetoOO_Bank.pdb
+C:\Users\Calebe\Documents\Cursos\DIO\ProjetoOO_Bank\obj\Debug\netcoreapp3.1\ProjetoOO_Bank.csprojAssemblyReference.cache
+C:\Users\Calebe\Documents\Cursos\DIO\ProjetoOO_Bank\obj\Debug\netcoreapp3.1\ProjetoOO_Bank.AssemblyInfoInputs.cache
+C:\Users\Calebe\Documents\Cursos\DIO\ProjetoOO_Bank\obj\Debug\netcoreapp3.1\ProjetoOO_Bank.AssemblyInfo.cs
+C:\Users\Calebe\Documents\Cursos\DIO\ProjetoOO_Bank\obj\Debug\netcoreapp3.1\ProjetoOO_Bank.csproj.CoreCompileInputs.cache
+C:\Users\Calebe\Documents\Cursos\DIO\ProjetoOO_Bank\obj\Debug\netcoreapp3.1\ProjetoOO_Bank.dll
+C:\Users\Calebe\Documents\Cursos\DIO\ProjetoOO_Bank\obj\Debug\netcoreapp3.1\ProjetoOO_Bank.pdb
+C:\Users\Calebe\Documents\Cursos\DIO\ProjetoOO_Bank\obj\Debug\netcoreapp3.1\ProjetoOO_Bank.genruntimeconfig.cache
